@@ -22,7 +22,7 @@
 
 이번 프로젝트는 ***폰고의 전자기기 거래 서비스***만을 대상으로 진행하였습니다.
    
-   <img width="804" alt="폰고 서비스 설명" src="https://user-images.githubusercontent.com/106254025/210538389-35255478-46ce-4a5d-adcb-21f9c32c7178.png">
+ <p align="center"><img width="804" alt="폰고 서비스 설명" src="https://user-images.githubusercontent.com/106254025/210538389-35255478-46ce-4a5d-adcb-21f9c32c7178.png"></p>
    
 ### **3️⃣ 문제정의**
 2022년 피에로컴퍼니는 2023년 리퍼비시 전자기기 렌탈 서비스 추진을 위해 전자기기 매입 확대에 주력했습니다. 서비스 홍보를 위한 광고, 이벤트 집행으로 매달 사용자 유입은 증가했지만 거래예약율(견적요청 대비 거래예약 사용자수)은 평균 10%대에 머물렀습니다. 데이터 전담조직이 존재하지 않아 데이터 활용 능력이 낮은 피에로컴퍼니에서 DA 직무를 수행하며 사용자 이탈에 대한 원인을 분석하고 핵심 지표 개선을 위한 액션을 제안했습니다.
@@ -32,13 +32,15 @@
 
 - AARRR 프레임워크 중 Activation 단계에 대한 퍼널 분석 
    - 폰고 서비스에 유입된 사용자가 거래를 완료하기까지의 과정은 다음과 같이 5단계로 구성되며 폰고 서비스의 핵심 가치를 거래예약으로 선정하였습니다. 또한 견적 요청 후 업체로부터 견적이 도달하기까지 사용자의 이탈이 불가피하기 때문에 서비스 유입 ~ 거래예약 여정을 서비스 유입 ~ 견적요청, 견적조회 ~ 거래예약 2개 파트로 나눈 후 페이지뷰를 기준으로 세부 퍼널을 구성하였습니다.
-   - 전환율에 대한 세부 정의가 필요했으며 2가지의 퍼널의 핵심 지표는 다음과 같습니다.
-      - 
-      - 
-<img width="641" alt="image" src="https://user-images.githubusercontent.com/106254025/211472731-c71935d6-344c-471f-8f19-a2590190d8ab.png">
+   - 2개의 퍼널에서 전환율에 대해 다음과 같이 정의했으며 프로젝트의 핵심 지표로 선정하였습니다.
+  
+ <p align="center"><img width="600" alt="image" src="https://user-images.githubusercontent.com/106254025/211472731-c71935d6-344c-471f-8f19-a2590190d8ab.png"></p>
 
-<img width="650" alt="image" src="https://user-images.githubusercontent.com/106254025/211473976-5b461240-9363-40cc-bd3d-22e88a8af852.png">
-
+   - 견적 요청 전환율 =
+  
+<p align="center"><img width="600" alt="image" src="https://user-images.githubusercontent.com/106254025/211473976-5b461240-9363-40cc-bd3d-22e88a8af852.png"></p>
+   - 거래 예약 전환율 =
+   
 
 
 
