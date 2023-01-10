@@ -33,17 +33,10 @@
 
 - AARRR 프레임워크 중 Activation 단계에 대한 퍼널 분석 
    - 폰고 서비스에 유입된 사용자가 거래를 완료하기까지의 과정은 다음과 같이 5단계로 구성되며 폰고 서비스의 핵심 가치를 거래예약으로 선정하였습니다. 또한 견적 요청 후 업체로부터 견적이 도달하기까지 사용자의 이탈이 불가피하기 때문에 서비스 유입 ~ 거래예약 여정을 서비스 유입 ~ 견적요청, 견적조회 ~ 거래예약 2개 파트로 나눈 후 페이지뷰를 기준으로 세부 퍼널을 구성하였습니다.
-   - 2개의 퍼널에서 전환율에 대해 다음과 같이 정의했으며 프로젝트의 핵심 지표로 선정하였습니다.
-  
- <p align="center"><img width="600" alt="image" src="https://user-images.githubusercontent.com/106254025/211472731-c71935d6-344c-471f-8f19-a2590190d8ab.png"></p>
-
-   - 견적 요청 전환율 =
-  
-<p align="center"><img width="600" alt="image" src="https://user-images.githubusercontent.com/106254025/211473976-5b461240-9363-40cc-bd3d-22e88a8af852.png"></p>
-   - 거래 예약 전환율 =
    
+ <p align="center"><img width="500" alt="image" src="https://user-images.githubusercontent.com/106254025/211472731-c71935d6-344c-471f-8f19-a2590190d8ab.png"></p>
 
-
+<p align="center"><img width="500" alt="image" src="https://user-images.githubusercontent.com/106254025/211473976-5b461240-9363-40cc-bd3d-22e88a8af852.png"></p>
 
 - 코호트별 전환율 분석
    - 폰고 사용자 데이터를 기반으로 거래예약율에 영향을 미치는 코호트를 발견한 후 폰고 서비스 광고 및 이벤트 설계 적합성을 검토하였습니다.
