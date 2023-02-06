@@ -2,7 +2,7 @@
 
 ### 본 프로젝트는 코드스테이츠 AIB 교육 과정에서 진행한 기업협업 프로젝트입니다.
 ---
-전체 프로젝트 내용은 [여기](https://github.com/Jinseon-Kim/-/blob/main/%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3%20%E1%84%8C%E1%85%A5%E1%86%AB%E1%84%8E%E1%85%A6%20%E1%84%87%E1%85%A9%E1%84%80%E1%85%B5.pdf)를 통해 보실 수 있습니다.
+전체 프로젝트 내용은 [여기](https://github.com/Jinseon-Kim/business-analysis-phonego/files/10660745/project.pdf)를 통해 보실 수 있습니다.
 
 • 진행기간 : 2022년 11월 17일 ~ 12월 14일
 
